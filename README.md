@@ -59,7 +59,13 @@
 
 </div>
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JanderssonFPaula/JanderssonFPaula/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JanderssonFPaula/JanderssonFPaula/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JanderssonFPaula/JanderssonFPaula/output/snake.svg" />
+  </picture>
+</p>
 
 <!-- Rodape -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5a0f,33:210d3e,66:03fa6e,100:fefefe&height=120&section=footer"/>
